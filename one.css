@@ -6,21 +6,18 @@ text-align: center;
 padding: 10px 10% 10px 10%;
 }
 
-#intro {
+.intro, .middle  {
   color:purple;
   font-weight: bold;
   font-size: 15px;
   font-family: serif;
 }
 
-#middle {
-  color:purple;
-  font-weight: bold;
-  font-size: 15px;
-  font-family: serif;
-}
 
-#end {
+
+
+
+.div1 p {
   color:purple;
   font-weight: bold;
   font-size: 23px;
